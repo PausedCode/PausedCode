@@ -10,5 +10,8 @@ That's all for now. This GitHub page is mainly for future projects, hopefully I'
 # Links
 - [Social Media](https://pausedweb.carrd.co/#social-networks)
 
-# Last.fm Activity
-[![Last.fm Activity](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=PausedMusic&theme=dimmed&show_scrobbles=false)](https://www.last.fm/user/PausedMusic)
+# Last.fm Activity - Now Playing
+[![Last.fm Activity - NP](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=PausedMusic&theme=dimmed&show_scrobbles=false)](https://www.last.fm/user/PausedMusic)
+
+# Last.fm Activity - Recently Played
+[![Last.fm Activity - RP](https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01)]([https://www.last.fm/user/JeffreyCA01](https://github.com/JeffreyCA/lastfm-recently-played-readme))
