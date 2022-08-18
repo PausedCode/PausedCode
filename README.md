@@ -13,5 +13,7 @@ That's all for now. This GitHub page is mainly for future projects, hopefully I'
 # Last.fm Activity - Now Playing
 [![Last.fm Activity - NP](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=PausedMusic&theme=dimmed&show_scrobbles=false)](https://www.last.fm/user/PausedMusic)
 
+"Now Playing" may be inaccurate, please refer to "Recently Played" to see if a track is being actively scrobbled.
+
 # Last.fm Activity - Recently Played
 [![Last.fm Activity - RP](https://lastfm-recently-played.vercel.app/api?user=PausedMusic)](https://github.com/JeffreyCA/lastfm-recently-played-readme))
